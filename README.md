@@ -86,6 +86,7 @@ Recommendations
 
 Conclusion
 ----------
+[Project final Presentation](https://docs.google.com/presentation/d/18nxU2IlXd_pJpTiUZxuETRbOZo3_YIC0/edit#slide=id.p1)
 
 This project provided predictive models and valuable insights to help HMOs reduce healthcare costs by targeting key factors such as BMI, smoking, exercise, and hypertension.
 
