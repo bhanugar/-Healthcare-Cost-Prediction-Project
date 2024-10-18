@@ -72,7 +72,8 @@ Key Insights
 *   **Exercise vs Cost**: Regular exercise reduces healthcare costs.
     
 *   **Age vs Cost**: Older individuals have higher healthcare expenses.
-    
+
+   ![alt text](https://github.com/bhanugar/-Healthcare-Cost-Prediction-Project/blob/c97d52c4e2e1303fb5628f1dcf17f64e85c9331f/R-health-cost.png)
 
 Recommendations
 ---------------
